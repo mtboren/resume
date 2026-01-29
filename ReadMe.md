@@ -2,7 +2,7 @@
 
 #### **PROFESSIONAL SUMMARY**
 
-Senior Architect with passion for doing the most with the least expenditure, presently via enterprise-scale automation and declarative infrastructure, and by maximizing positive impact through influence, mentoring, and collaboration. I have honed these skills over 20+ years, and I architect and engineer secure, compliant-and-by-design solutions that embrace "Everything as Code" principles across AWS and Azure environments, ensuring success through high velocity and consistency. And, I strive for ever-faster and ever-better by teaming up with emerging technologies.
+Senior Architect with passion for doing the most with the least expenditure, presently via enterprise-scale automation and declarative infrastructure, and by maximizing positive impact through influence, mentoring, and collaboration. I have honed these skills over 20+ years, and I architect and engineer secure, compliant-by-design solutions that embrace "Everything as Code" principles across AWS and Azure environments, ensuring success through high velocity and consistency. And, I strive for ever-faster and ever-better by teaming up with emerging technologies.
 
 #### **NOTABLES & COMMUNITY CONTRIBUTIONS**
 
