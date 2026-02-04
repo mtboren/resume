@@ -10,7 +10,7 @@ Senior Architect with passion for doing the most with the least expenditure, pre
 * Co-Author and Technical Editor of book "VMware vSphere PowerCLI Reference: Automating vSphere Administration, 2nd Edition" ([amazon.com/dp/1118925114](https://amazon.com/dp/1118925114))
 * Earned VMware vExpert designation each year from 2012 through 2022 (more information at [vexpert.vmware.com](https://vexpert.vmware.com)), thanks to contributions to the technical community, including being one of top participants in VMware PowerCLI automation community
 * Created PowerShell and VMware PowerCLI hands-on lab for VMUG Demo Day event, including both the lab environment and the curriculum (lab manual at [static.vNugglets.com/vmugdd2012](https://static.vnugglets.com/vmugdd2012))
-* Designed and deployed infrastructure for Metasploit Framework Unleashed charity event by IndySec (InfoSec group) for East African Food project ([hackersforcharity.org](http://hackersforcharity.org))
+* Designed and deployed infrastructure for Metasploit Framework Unleashed charity event by IndySec (InfoSec group) for East African Food project (Hackers for Charity)
 
 #### **PROFESSIONAL EXPERIENCE**
 
