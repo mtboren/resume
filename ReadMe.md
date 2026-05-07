@@ -27,6 +27,7 @@ Lead teams towards greater success via consistency and automation:
 Examples and technologies:
 
 * Multiply cross-functional capabilities by mentoring technicians and engineers, influencing teams across multiple business units and disciplines on as much of the "what" and "how" as possible
+* Accelerate and improve coding accuracy via agentic coding partners like GitHub Copilot and Claude Code, both for me and for teammates alike. Employ the agents for both planning and implementing
 * Architect and standardize reusable CI/CD frameworks (GitHub Actions) to automate IaC (CloudFormation) lifecycles of AWS resource stacks
 * Author automated testing of serverless functions with PowerShell Pester framework
 * Define standard development containers in GitHub Codespaces for clean dev/PoC environments (via devcontainer.json definitions), maximizing developer velocity by eliminating initial setup friction
